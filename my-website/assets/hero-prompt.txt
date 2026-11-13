@@ -1,6 +1,0 @@
-Generation tool: built-in image_gen.imagegen
-Original generated image: C:\Users\aivan\.codex\generated_images\01a1d04d-8116-7c03-bdb5-7f4c57c6dbfa\exec-8dcb8239-457d-4d8f-a858-749e36191b22.png
-Project original: assets/kayasure-family.png
-
-Exact prompt:
-Use case: photorealistic-natural. Asset type: standalone website hero photograph for an insurance company. Create a premium editorial lifestyle photograph of a Filipino family of three: mother, father, and their young daughter, joyfully and naturally walking together in a sunlit tropical coastal garden. They are close together, gently holding hands, wearing relaxed cream and earth-toned casual clothing. Lush green palms and softly blurred coastal foliage in the background. Natural warm daylight, authentic skin texture, candid expressions and believable anatomy, refined magazine photography. Portrait 4:5 composition, with the family centered slightly right and enough headroom and breathing space to crop. Full or three-quarter bodies, their faces clearly visible. No text, logos, watermarks, UI, graphic overlays, badges, or borders.

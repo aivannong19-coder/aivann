@@ -1,7 +1,0 @@
-Generation tool: built-in image_gen.imagegen
-Original generated image: C:\Users\aivan\.codex\generated_images\01a1d04d-8116-7c03-bdb5-7f4c57c6dbfa\exec-25c95b0c-d2aa-401d-a01b-2f3d8b4ba8f0.png
-Project original: assets/kayasure-ctpl-car.png
-Website encoding: assets/kayasure-ctpl-car.jpg, JPEG quality 90, original dimensions
-
-Exact prompt:
-Use case: photorealistic-natural. Asset type: standalone website hero photograph for CTPL motor insurance. Create a premium photorealistic editorial photograph of a clean modern pearl-white compact crossover parked at a front three-quarter angle on a quiet palm-lined tropical Philippine residential lane. Warm morning sun, lush natural greenery, subtle modern architecture, inviting everyday-driving and road-trip mood. Realistic vehicle proportions, wheels, reflections and materials. Portrait 4:5 composition, the car centered with breathing room above it so the photograph works inside a rounded arch crop. No people necessary. No visible brand badges or logos, no legible license plate or other text, no insurance stamps, no graphic overlays, no watermarks, no borders, no UI.
